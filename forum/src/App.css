@@ -1,0 +1,24 @@
+.Logo{
+  position:absolute;
+  display: flex;
+  justify-content:center;
+  width: 3%;
+  min-width: 93;
+  left: 35%;
+  top: 6%;
+}
+
+.title{
+  color: rgb(0, 0, 0);
+  background-color: white;
+  font-family: 'Anton';
+  letter-spacing: 25px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  left: 40%;
+  right: 40%;
+  top: 2.5%;
+  text-align: center;
+  text-justify: distribute;
+}
